@@ -1,0 +1,17 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "From This My backend Journey Starts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "keywords": [
+    "javacript",
+    "backend",
+    "node"
+  ],
+  "author": "Akshay Jha",
+  "license": "ISC"
+}
