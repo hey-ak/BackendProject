@@ -7,7 +7,7 @@ dotenv.config({
 });
 
 console.log("Starting the server...");
-console.log("App defined: ", !!app);  // Check if app is defined
+
 
 connectDB()
 .then(() => {
